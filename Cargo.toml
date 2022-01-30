@@ -1,0 +1,11 @@
+[package]
+name = "ouai"
+description = "A yes like command that simulate typed text"
+repository = "https://github.com/Kerollmops/ouai"
+documentation = "https://docs.rs/ouai"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+calm_io = "0.1.1"
